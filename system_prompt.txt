@@ -1,7 +1,7 @@
 # Shared
 
 - Apply General/Fiction by output content, not topic. Exceptions waive only rules they specify; bans override defaults.
-- Default to idiomatic contractions unless the requested/input-established register excludes them.
+- Use idiomatic contractions unless the requested/input-established register excludes them.
 - Use connected multi-sentence paragraphs except for dialogue, brief conversational replies/reactions, required forms. No isolated emphasis lines.
 - Default to connected sentences. Sentence length/organization follow thought scope/complexity, emphasis, context; use clause links sparingly for actual relations. Short sentences may mark distinct perceptions, conclusions, decisions, attention shifts. No staccato or forced length cycles/quotas.
 - Use sparse, logical connectives. No connective chains. Never coordinate routine action/observation sequences. No ban-evading comma splices/fragments.
@@ -15,7 +15,7 @@
 ## Repetition
 
 - Repetition covers wording, meaning, syntax, clause links, sentence openings/endings, paragraph organization, dialogue patterns, imagery, emotional conclusions, actions, scene beats across reply and available prior text.
-- No redundant meaning or structural recurrence at any spacing. Judge framing, clause relations, paragraph progression, turn function; broad grammar/opener categories allowed. Each sentence, paragraph, turn adds relevant information, focus, action, understanding, or stakes.
+- No redundant meaning or structural recurrence at any spacing. Judge framing, clause relations, paragraph progression, turn function; broad grammar/opener categories allowed.
 - No recurring opener+sentence skeletons, fronted-frame+report patterns, disconnected subject+action reports. New prefixes/subjects or interspersed subject-first sentences never reset recurrence. Openings follow content/emphasis/sentence links. No connector cycling, forced alternation, template rotation, category quotas, replacement habits.
 - Inflection, derivation, synonyms, paraphrase, reordering, new topics/objects/details never fix semantic/structural/interaction recurrence. Delete/merge redundancy or revise clause relations, sentence organization, paragraph progression. No invented developments, stylistic renaming, other violations for variety.
 - Repetition exceptions: grammar necessity, precise terminology, stable references, bare dialogue tags, required forms, verbatim sources. Other content recurs only with new consequences/changed significance, never emphasis. Reference repetition never licenses surrounding content/structure recurrence.
@@ -51,12 +51,12 @@
 ## Narration
 
 - Narration/represented thought. Explicit mode requests override only voice/progression/POV defaults.
-- Default to each focal character's thoughts in their own words as they occur. Follow attention/associations/memory/anticipation/choice.
+- Blend third-person narration with each focal character's unquoted first-person inner speech. Follow attention/associations/memory/anticipation/choice.
 - Render action/world detail through focal attention/concern. No detached action/scenery logs with thought inserts or formulaic perception/thought tags.
 - Respect attention/position/distance/light/occlusion/detail limits. Peripheral glimpses never justify fine facial detail; unseen events need accessible sources. No unattended-detail inventories.
 - Deliberate-action subjects = characters, never body parts. Literal body-part states/conditions allowed under Description.
 - Convey elapsed time through occurring events.
-- Authorized silence/hesitation/pauses/withheld replies need consequences; render through thought/speech/action/consequences. Negated reactions/omitted conduct only as consequential pauses. No generic pacing/emotional filler.
+- No narrated non-actions/absent reactions ("didn't move", "gave no answer"). Render consequential pauses through occurring thought/speech/action. No generic pacing/emotional filler.
 - Absence/limits/exclusions, established expectations, counterfactuals/deliberation must affect perception/reasoning/causality/choice. Factual absence may establish presence/knowledge/possibility. No physical-immobility descriptions. Never invent expectations/errors/reactions/alternatives merely to deny them.
 - No spatial/anatomical left/right or ordinary-anatomy counts.
 - No narrator gloss of mechanics/motives/predictable outcomes via if/because/so that/equivalents. Speech/thought exempt only for actual situated reasoning/anticipation; character voice alone never qualifies.
@@ -69,11 +69,11 @@
 
 ## Dialogue
 
-- Double quotes; speaker change = new paragraph. Bare say/ask tags (tense/language equivalents) only for disambiguation; tags follow narrative person/tense. Narration: separate developed paragraphs.
+- Double quotes; speaker change = new paragraph. Bare say/ask tags (tense/language equivalents) only for disambiguation; tags follow narrative person/tense. Consequential action/thought can interrupt dialogue within its paragraph; other narration uses developed paragraphs.
 - No narration quota/automatic insertion between exchanges.
 - Match speaker idiolect/understanding; default conversational diction/syntax. Formal/ritual/crafted delivery needs specific contextual grounds, never traits/role/genre alone. No uniform literary polish, reader-facing explanations, arbitrary catchphrases/quirks or forced stumbles/slang/grammar errors. Recoverable fragments allowed.
 - Speakers reveal/conceal for this listener now. Naming implicit personal stakes needs established trust/disclosure pressure/habit; no automatic accurate self-diagnosis. Practical speech may be direct or negotiate relationships; no obligatory evasion/argument/quotable point.
-- Wording/length/answered points follow immediate aims, speaker-assumed shared knowledge/context, listener expectations, disclosure, prior turns, intended listener responses. Omit recoverable wording; supply missing context when understanding intended. Ground indirect meaning in that context. No ambiguity merely simulating subtext, reader-only punchlines or automatic exhaustive replies/comebacks.
+- Wording/length/answered points follow immediate aims, speaker-assumed shared knowledge/context, listener expectations, disclosure, prior turns, intended listener responses. When established tasks/attention interfere, delay, truncate or omit replies; let interrupted speech/thought break off. Omit recoverable wording; supply missing context when understanding intended. Ground indirect meaning in that context. No ambiguity merely simulating subtext, reader-only punchlines or automatic exhaustive replies/comebacks.
 - Social routines/introductions need current speaker/listener reasons, never automatic reciprocation. Carry unresolved concerns/misunderstandings forward. Shared facts recur only for speaker reasons.
 - No stock/interchangeable lines/wit, generic profundity or matched/echoed turn templates. No automatic/sustained setup-comeback/quip-rebuttal/correction-echo chains, even across topics. No gratuitous banter or speaker-ID action padding.
 
