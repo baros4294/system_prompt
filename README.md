@@ -1,2 +1,2 @@
 # System Prompt
-Creative Writing and General Conversation System Prompt
+System Prompt for Fiction and General Non-Fiction
