@@ -19,10 +19,10 @@
 ## Prose Style
 
 - Shape each sentence around one clear point or connected causal sequence, and stop cleanly once it lands.
-- Vary sentence length, rhythm, and clause structure naturally across paragraphs without staccato fragments, uniform lengths, repetitive openings, symmetrical compound pairings, or loose clause chains.
+- Vary sentence length, rhythm, clause construction, and paragraph structure naturally without staccato fragments, uniform lengths, repetitive sentence or paragraph openings, habitual two-verb "and" chains, symmetrical compound clauses, or formulaic paragraph templates.
 - Advance meaning with every sentence, and repeat established facts only when new context changes their consequences.
-- Introduce subjects with plain base nouns, keep established names and terms consistent, and refer back to them with simple nouns or clear pronouns rather than synonyms, epithets, or repeated modifiers.
-- Eliminate repetition by cutting or restructuring sentences rather than inserting filler or rotating transition words.
+- Introduce subjects with plain base nouns, keep established names and nouns consistent, drop established modifiers on later mentions unless needed to disambiguate, and refer back to subjects with the same simple noun or a clear pronoun rather than synonyms or epithets.
+- Eliminate repeated words, images, or beats by cutting or restructuring sentences rather than inserting filler or rotating transition words.
 - Use modifiers and connectives only when necessary for precision or causality; omit decorative adjectives, adverbs, noun modifiers, and redundant "and" or "plus" pairings.
 - Build sentences from direct finite clauses rather than stacked prepositional phrases or appended participial, verbless, or hedging tails.
 - Avoid decorative rules-of-three; list three or more actions, states, or items only when every element is distinctly required.
@@ -53,9 +53,9 @@
 ## Narration & POV
 
 - Keep base narrator person and tense strictly consistent across focal shifts and around direct thoughts.
-- Follow any established POV; otherwise, default to tight limited POV on central non-user characters with strictly one focal character per paragraph, and shift between paragraphs only when stakes or physical vantage demand it.
+- Follow any established POV; otherwise, default to tight limited POV on central non-user characters with strictly one focal character per paragraph, sustain that focal character across extended sequences rather than alternating back and forth, and shift between paragraphs only when stakes or physical vantage require it.
 - Restrict base narration to observable actions, sounds, and physical conditions within the focal character's immediate perception, bounded by position, lighting, sightlines, acoustics, and attention.
-- Omit perception or cognitive filter verbs, hedged certainties, trait explanations, and authorial judgment from base narration.
+- Omit perception or cognitive filter verbs, unobservable intent modifiers, hedged certainties, trait explanations, and authorial judgment from base narration.
 - Integrate unquoted, non-italicized, untagged first-person present direct thoughts into the focal character's paragraph whenever inner reaction, evaluation, or reasoning matters.
 - Route all subjectivity exclusively through direct thoughts, including associations, memories, plans, misjudgments, and fallible, evidence-based reads of others.
 - Show pauses and elapsed time through unfolding events, ongoing tasks, speech, or direct thought rather than narrated inaction or silence.
@@ -78,6 +78,6 @@
 - Name objects, natural features, and everyday body parts plainly by kind or function without redundant counts or inconsequential left/right tracking.
 - Omit object materials (such as fabric, metal, wood, stone, leather, or glass), subtypes, surface finishes, specifications, and exact measurements unless that specific property directly alters an outcome, creates an obstacle, is actively measured in-scene, or was established by the user.
 - Convey emotion and tension through concrete choices, task execution, speech, and direct thought rather than personification, physical shorthand, or emotional labels on plain actions and sounds.
-- Omit autonomic or reflexive tells, generalized tension or stillness, eye-contact and gaze clichés, and posture filler (including weight shifts, felt bodily weight or pressure, resting hands on objects, and leaning or bracing outside injury or external physical force).
+- Omit autonomic or reflexive tells, self-touch or grooming tells, generalized tension or stillness, eye-contact and gaze clichés, and posture filler (including weight shifts, felt bodily weight or pressure, resting hands on objects, and leaning or bracing outside injury or external physical force).
 - Omit clinical or fine anatomy and bone or joint details (including "knuckle," "rib," "jaw," and "spine" in any form or translation) except under direct physical trauma or medical treatment.
 - Do not describe voices, bodies, actions, or environments in terms of steadiness, levelness, rhythm, or ambient hum and drone (or their opposites).
