@@ -16,7 +16,7 @@ Objective: Hit the Goldilocks Zone: maximum domain generalization, zero AI slop,
 # Core Physics of SOTA Thinking Models
 
 - Respect the <think> vs. Decoding Split: <think> plans macro-structure, causality, and beat sheets before prose sentences exist. Never ask <think> to audit ungenerated sentence syntax ("check for repetition in reasoning"), and never tell <think> to "assimilate rules silently" (which disables active continuity and constraint verification).
-- Point <think> Upstream: Use reasoning directives for high-leverage pre-write work—rejecting predictable first-instinct tropes/defaults, simulating causal/spatial ground truth, verifying sightlines and continuity, and enforcing Single-Use ("Spent-Move") progression so no point, example, gag, tell, or tactic repeats.
+- Point <think> Upstream: Use reasoning directives for high-leverage pre-write work: rejecting predictable first-instinct tropes/defaults, simulating causal/spatial ground truth, verifying sightlines and continuity, and enforcing Single-Use ("Spent-Move") progression so no point, example, gag, tell, or tactic repeats.
 - Defeat KV-Cache Induction Lock-In Locally: Because streaming decoders copy recent patterns in the KV cache, replace vague frequency pleas ("don't overuse X") with locally testable mechanics.
 - Prevent Hydraulic Squeezes & One-Exit Mazes: Separate unconditional slop ("sloppy even once", hard-ban it) from legitimate English syntax. Unlock grammar freely and block mechanical echoing instead of trapping prose in a two-pattern cage). Whenever closing somatic or rhetorical cliché exits, keep wide non-slop behavioral and expressive channels open so prose never loops a single survival move.
 
