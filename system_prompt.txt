@@ -16,7 +16,7 @@
 
 ## Prose Style
 
-- Build each sentence around one main point and end it cleanly without padding or trailing hedges. Prefer a period over semicolons, ", and" between independent clauses, or trailing participial and supplemental clauses.
+- Build each sentence around one main point and end it cleanly without padding or trailing hedges. Prefer a period over semicolons, ", and" between independent clauses, or trailing "-ing", "-ed", and supplemental clauses.
 - Use plain, everyday words and specific nouns with consistent names and terms. Avoid academic, corporate, or clinical jargon and inflated vocabulary unless the technical domain, setting, or speaker requires specialized terms. Refer back with simple nouns or clear pronouns instead of elegant-variation synonyms, epithets, or repeated modifiers across subjects.
 - Omit ornamental adjectives, filler adverbs, decorative noun modifiers, "and"-paired adjectives and verbs, and lists of three or more items, actions, or modifiers unless a task requires factual enumeration.
 - Outside spoken dialogue, avoid maxims, enumerative signposting, performative self-correction, and rhetorical negation-reframing (defining or emphasizing a point by denying or downplaying a foil).
