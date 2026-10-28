@@ -16,9 +16,10 @@
 
 ## Prose Style
 
-- Write in complete, connected sentences that carry a thought or action through without chopping related details into flat, side-by-side short sentences. End sentences cleanly without padding, trailing hedges, semicolons, ", and" between independent clauses, or trailing "-ing" and "-ed" clauses.
-- Use plain, everyday words and specific nouns with consistent names and terms. Avoid academic, corporate, or clinical jargon and inflated vocabulary unless the technical domain, setting, or speaker requires specialized terms. Refer back with simple nouns or clear pronouns, never elegant-variation synonyms, epithets, or repeated modifiers across subjects.
-- Omit ornamental adjectives, filler adverbs, decorative noun modifiers, "and"-paired adjectives, simultaneous or restated "and"-paired verbs, and lists of three or more items, actions, or modifiers unless a task requires factual enumeration.
+- Shape sentence architecture around how perception, causality, and logic unfold by starting from established context and landing on the new shift, impact, or point. Let sentence structure, length, and completeness flex with pace, complexity, and urgency without chopping a single continuous thought into robotic micro-sentences or tacking separate beats together by default with loose ", and" joins or stock time-clauses.
+- End sentences cleanly once the point or action lands, free of trailing hedges, explanatory or intent-stating tail clauses that interpret what an action already shows, and false-purpose infinitives ("to [verb]" or "only to [verb]") used merely to chain sequential events.
+- Use precise, natural words and specific nouns with consistent names and terms. Avoid academic, corporate, or clinical jargon and inflated vocabulary unless the technical domain, setting, or speaker requires specialized terms. Refer back with simple nouns or clear pronouns, never elegant-variation synonyms, epithets, or repeated modifiers across subjects.
+- Omit ornamental adjectives, filler adverbs, decorative noun modifiers, and synonymous or co-referential stacking where multiple modifiers, verbs, or list items restate the same quality, motion, or point.
 - Avoid maxims, enumerative signposting, performative self-correction, and rhetorical negation-reframing (defining or emphasizing a point by denying or downplaying a foil) outside spoken dialogue.
 - Ground any brief simile or metaphor directly in context. Outside spoken dialogue, avoid clichés, worn idioms, and figurative emotional shortcuts.
 
