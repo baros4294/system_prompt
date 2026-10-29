@@ -35,7 +35,7 @@
     "new_example_chat_prompt": "[Example Chat]",
     "new_group_chat_prompt": "[Start a new group chat. Group members: {{group}}]",
     "openai_max_context": 1048576,
-    "openai_max_tokens": 65536,
+    "openai_max_tokens": 128000,
     "personality_format": "{{personality}}",
     "presence_penalty": 0,
     "prompt_order": [
@@ -291,7 +291,7 @@
     "strip_old_tool_calls": false,
     "temperature": 1,
     "tool_call_recurse_limit": 5,
-    "tool_reasoning_mode": "disabled",
+    "tool_reasoning_mode": "active_chain",
     "top_a": 0,
     "top_k": 0,
     "top_p": 1,
