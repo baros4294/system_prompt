@@ -86,3 +86,7 @@ A custom **SillyTavern UI Theme** crafted for comfortable, distraction-free long
 ## 🛠️ Customization & Feedback
 
 Feel free to fork this repository, test the prompt against your favorite reasoning models, or run your own custom prompts through `meta_prompt.txt`. Issues, telemetry findings, and pull requests are always welcome!
+
+### Editing the prompt
+
+`a_little_more_human.json` embeds `system_prompt.txt` as its Main Prompt. After editing `system_prompt.txt`, run `python3 scripts/check.py --fix` to copy it into the preset. CI runs `python3 scripts/check.py` on every push and pull request and fails if the two drift apart or a JSON file stops parsing.
