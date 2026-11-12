@@ -1,5 +1,7 @@
 # System Prompt Suite: Fiction, General & Prompt Engineering
 
+[![Validate](https://github.com/baros4294/system_prompt/actions/workflows/validate.yml/badge.svg)](https://github.com/baros4294/system_prompt/actions/workflows/validate.yml) [![Latest release](https://img.shields.io/github/v/release/baros4294/system_prompt?sort=semver)](https://github.com/baros4294/system_prompt/releases/latest) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 A high-precision system prompt ecosystem engineered for state-of-the-art (SOTA) reasoning (`<think>`) models. Built to eliminate robotic AI tropes, somatic clichés, and structural monoculture while unlocking natural prose, strict narrative grounding in fiction, and adaptive, zero-sycophancy general conversation.
 
 This repository includes the pure `.txt` system prompt, a forensic **Meta-Prompt** used to co-write and audit prompts for reasoning models, a ready-to-use **SillyTavern Chat Completion Preset**, and a custom **Sepia UI Theme** for SillyTavern.
@@ -72,12 +74,12 @@ A custom **SillyTavern UI Theme** crafted for comfortable, distraction-free long
 2. Copy the raw text and paste it into the **System Prompt** or **Custom Instructions** field of your preferred LLM interface (Claude, ChatGPT, OpenWebUI, LM Studio, API playground, etc.).
 
 ### Importing `a_little_more_human.json` (SillyTavern Preset)
-1. Download raw [`a_little_more_human.json`](./a_little_more_human.json).
+1. Download [`a_little_more_human.json`](https://github.com/baros4294/system_prompt/releases/latest/download/a_little_more_human.json) from the latest release.
 2. In **SillyTavern**, open the **AI Response Configuration** panel (sliders icon at the top left).
 3. Ensure your API is set to **Chat Completion**, click the **Import** button next to the preset dropdown, and select `a_little_more_human.json`.
 
 ### Importing `Sepia.json` (SillyTavern Theme)
-1. Download raw [`Sepia.json`](./Sepia.json).
+1. Download [`Sepia.json`](https://github.com/baros4294/system_prompt/releases/latest/download/Sepia.json) from the latest release.
 2. In **SillyTavern**, open the **User Settings** panel (person/gear icon in the top bar).
 3. Under the **UI Theme** section, click **Import Theme** and select `Sepia.json`.
 
@@ -90,3 +92,11 @@ Feel free to fork this repository, test the prompt against your favorite reasoni
 ### Editing the prompt
 
 `a_little_more_human.json` embeds `system_prompt.txt` as its Main Prompt. After editing `system_prompt.txt`, run `python3 scripts/check.py --fix` to copy it into the preset. CI runs `python3 scripts/check.py` on every push and pull request and fails if the two drift apart or a JSON file stops parsing.
+
+Releases are tagged `vMAJOR.MINOR.PATCH`; pushing a tag publishes a GitHub release with the four files attached and notes listing the merged pull requests. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to propose changes and [SECURITY.md](SECURITY.md) for private reports.
+
+---
+
+## 📄 License
+
+[MIT](LICENSE) © 2026 Baros
